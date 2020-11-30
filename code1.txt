@@ -1,1 +1,8 @@
 version1 just to try
+
+git config --global user.name "caiuskt1"
+git config --globl user.email "caiuskt@gmail.com"
+
+Updated.
+th;jjjjjjda
+danacjcocacjc
